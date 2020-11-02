@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://yasetov.github.io"
 DefaultContentLanguage = "fr"
 paginate = 6
 theme = "portio"
