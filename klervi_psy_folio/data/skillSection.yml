@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: Consultations
 content: >
   ## Why hire me for your next project?
 
@@ -9,9 +9,9 @@ content: >
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HP
+  - title: prenatalité
     percent: 69
-  - title: TDA
+  - title: jeunes
     percent: 60
-  - title: Reiki
+  - title: adultes
     percent: 85

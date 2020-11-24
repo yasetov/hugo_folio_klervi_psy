@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Le cabinet de psychologie de Rezé
 content: >
-  # I am here for your personal business
+  Au sein du cabinet pluridisciplinaire de Rezé, dans un cadre chaleureux et bienveillant j’accueille et accompagne en tant que psychologue enfant, adolescent et adulte qui ont besoin de soutien psychologique ou qui souhaite s’engager dans une psychothérapie.
+  Consulter un psychologue est un premier pas pour prendre soin de soi, le début d’un voyage intérieur permettant de mieux se connaître, de rechercher les ressources suffisantes pour affronter ce qui est à l’origine de la souffrance faisant obstacle à l’épanouissement personnel.  
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+
+  La profession de psychologue est régie par un code de déontologie des psychologues. Celui-ci précise la préservation de la vie privée des personnes en garantissant le respect du secret professionnel. 
+buttonName: Me contacter
 buttonURL: contact
 image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
