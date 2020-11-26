@@ -9,16 +9,12 @@ name = "Accueil"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "Qui suis-je"
-url = "#about"
-weight = 2
-[[menu.main]]
-name = "Resume"
+name = "Parcours professionnel"
 url = "#resume"
 weight = 4
 [[menu.main]]
 name = "Consultations"
-url = "#skill"
+url = "#consultation"
 weight = 5
 [[menu.main]]
 name = "Contact"
