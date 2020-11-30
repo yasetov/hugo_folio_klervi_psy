@@ -1,45 +1,33 @@
 ---
-enable: false
-topTitle: Working Area
+enable: true
+topTitle: Consultations
 title: >
-  ## Creative Services
+  ## Ma Pratique
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Ma pratique clinique s’inscrit dans une perspective développementale en s’appuyant 
+  sur les points forts de la personne, et sur une analyse fine de ses besoins. 
+  Je m’attache à proposer un espace de parole et d’élaboration adapté à chaque 
+  personne afin de l’accompagner dans un travail d’introspection qui tend à développer 
+  et mobiliser les ressources internes, tout en respectant leur rythme. 
+  D’orientation intégrative, j’utilise différents outils issus de divers courants théoriques 
+  quand cela me semble pertinent afin de personnaliser mon accompagnement 
+  et être au plus proche de la personne
 service:
   - content: >
-      #### UI/UX Design 
+      #### Périnatalité 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      La parentalité en périnatalité est une période de transition, une étape de développement psycho affectif s’accompagnant de vulnérabilités pouvant avoir des répercussions négatives sur l’évolution de l’enfant et sur les relations au sein de la famille.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Enfant et Adolescent 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Le suivi des enfants et des adolescents repose sur des échanges et sur l’utilisation de médiation thérapeutique (jeux, dessins, images…). Cela permet l’expression de ce qui pose problème, de ce qui fait souffrir. 
+      Le suivi s’établi en collaboration avec les parents, la durée est variable selon la problématique. Les séances durent 45 minutes et se font de manière régulière en fonction des besoins.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Adulte 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      La première rencontre au cabinet de psychologie à Rezé s’effectue dans un cadre chaleureux et bienveillant. Les séances sont intéractives, il s’agira d’échanger sur ce qui vous amène à consulter un professionnel. 
+      Le rôle du psychologue est de vous aider à mobiliser vos ressources pour trouver des solutions à ce qui pose problème. 
+      Par la voie de l’association libre mais aussi en utilisant différentes médiations entre autres artistiques vous pourrez exprimer vos pensées, vos sentiments et émotions.
     image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg

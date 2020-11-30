@@ -14,7 +14,7 @@ url = "#resume"
 weight = 4
 [[menu.main]]
 name = "Consultations"
-url = "#consultation"
+url = "#service"
 weight = 5
 [[menu.main]]
 name = "Contact"
