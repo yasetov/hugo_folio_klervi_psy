@@ -17,17 +17,47 @@ service:
       #### Périnatalité 
 
       La parentalité en périnatalité est une période de transition, une étape de développement psycho affectif s’accompagnant de vulnérabilités pouvant avoir des répercussions négatives sur l’évolution de l’enfant et sur les relations au sein de la famille.
-    image: images/service/ui-ux.svg
+    motif: >
+      *	Difficulté lors de la grossesse ou en postpartum  
+
+      Je vous propose un lieu d’écoute et de soutien tout au long de la grossesse et dans les premiers mois du bébé.
+
+      * Epuisement Parental
+
+      *	Accompagnement à la parentalité
+
+      *	Deuil périnatal
+
   - content: >
       #### Enfant et Adolescent 
 
       Le suivi des enfants et des adolescents repose sur des échanges et sur l’utilisation de médiation thérapeutique (jeux, dessins, images…). Cela permet l’expression de ce qui pose problème, de ce qui fait souffrir. 
       Le suivi s’établi en collaboration avec les parents, la durée est variable selon la problématique. Les séances durent 45 minutes et se font de manière régulière en fonction des besoins.
-    image: images/service/web.svg
+    motif: >
+      *	Difficultés liées au sommeil, à l’acquisition du langage, à l’autonomie, à l’alimentation
+
+      *	Difficultés scolaires : apprentissage, relationnelles, harcèlement
+
+      *	Difficulté familiale
+
+      *	Gestion des émotions
+
+      *	Angoisse, dépression
+
   - content: >
       #### Adulte 
 
       La première rencontre au cabinet de psychologie à Rezé s’effectue dans un cadre chaleureux et bienveillant. Les séances sont intéractives, il s’agira d’échanger sur ce qui vous amène à consulter un professionnel. 
       Le rôle du psychologue est de vous aider à mobiliser vos ressources pour trouver des solutions à ce qui pose problème. 
       Par la voie de l’association libre mais aussi en utilisant différentes médiations entre autres artistiques vous pourrez exprimer vos pensées, vos sentiments et émotions.
-    image: images/service/creative.svg
+    motif: >
+      *	Difficultés relationnelles
+
+      *	Dépression
+
+      *	Crises d’angoisses
+
+      *	Deuil
+
+      *	Maladie chronique
+
