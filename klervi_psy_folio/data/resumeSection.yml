@@ -1,13 +1,17 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Parcours pro
 title: >
-  ## My Expertises
+  ## Mon expérience
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+  Klervi-Anne ISIDOR est diplômée de psychologie de l’U.C.O. à Angers, spécialisée en
+  psychologie clinique et développement.
+  Formée à l’Observation du nourrisson et du jeune enfant, Tavistock modèle France auprès
+  du Centre d’Etude Martha Harris (Larmor-Plage, 56).
+  Issue d’une formation artistique à l’école des Beaux-Arts et à l’école de mosaïque de
+  Spilimbergo (Italie), Klervi-Anne ISIDOR utilise sa créativité dans l’accompagnement
+  psychologique qu’elle propose.
 
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
