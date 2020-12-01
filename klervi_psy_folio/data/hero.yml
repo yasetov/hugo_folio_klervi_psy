@@ -12,7 +12,12 @@ buttonURL: contact
 image: images/hero/2960351.jpg
 name: Klervi-Anne ISIDOR
 position: Psychologue à Rezé (près de Nantes)
-address: "30 rue de la Blordière Résidence la Clé des Champs – immeuble Les merisiers 44400 REZE"
+address: >
+  30 rue de la Blordière  
+  
+  Résidence la Clé des Champs – immeuble Les merisiers  
+  
+  44400 REZE
 email: "klervi@psycologie.com"
 other: "Numéro ADELI : 449321454"
 openingHours: "Open from 10am to 6pm (close at 5pm Sundays)"

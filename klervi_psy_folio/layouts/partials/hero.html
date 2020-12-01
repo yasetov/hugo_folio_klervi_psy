@@ -29,16 +29,19 @@
           </div>
           <div class="mb-5">
             <span class="top-title pre-line">{{ .topTitle }}</span>
-            <p style="font-size: 1rem;">
+            <p style="font-size: 1.125rem;">
                 {{ .content }}
             </p>
           </div>
-          <<div class="contact__info_item">
-              {{ .name }}<br>
+          <div class="contact__info_item">
+            <p>
+              {{ .name }}
+            </p>
+            <p style="font-size:small;">
               {{ .position }}<br>
-              {{ .address }}<br>
+              {{ .address | markdownify }}<br>
               {{ .other }}<br>
-              <a href="{{ .agenda }}">Prendre RDV</a>
+            </p>
           </div>
         </div>
       </div>
