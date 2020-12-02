@@ -17,7 +17,7 @@ name = "Consultations"
 url = "#service"
 weight = 5
 [[menu.main]]
-name = "Contact"
+name = "Infos pratiques"
 url = "#info"
 weight = 7
 
@@ -49,10 +49,11 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-adress = "30 rue de la Blordière Résidence la Clé des Champs – immeuble Les merisiers 44400 REZE"
-email = "klervi@psycologie.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "30 rue de la Blordière Résidence la Clé des Champs – immeuble Les merisiers 44400 REZE"
+email = "klervi.isidor@wanadoo.fr"
+openingHours = "De lundi à jeudi de 9h à 17h..."
+price = "50€ la séance d'environ 45min"
+phone = "07.83.24.67.92"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
