@@ -1,3 +1,22 @@
 ---
 enable: true
 topTitle: Infos pratiques
+
+address : "30 rue de la Blordière Résidence la Clé des Champs – immeuble Les merisiers 44400 REZE"
+email : "psy.klervi@gmail.com"
+openingHours : >
+  Lundi    10h - 20h  
+
+  Mardi    9h-19h  
+
+  Mercredi 9h-19h  
+
+  Vendredi 9h-17h  
+
+  Samedi 9h-14h
+
+price : >
+  50€ la séance  
+
+  d'environ 45min
+phone : "07.83.24.67.92"

@@ -21,7 +21,7 @@
           </div>
           <h4>Adresse</h4>
           <p>
-            {{ $address.address }}
+            {{ .address | markdownify }}
           </p>
         </div>
       </div>
@@ -40,8 +40,8 @@
             </div>
           </div>
           <h4>Téléphone & Email</h4>
-          <p>{{ $address.phone }}<br>
-            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a>
+          <p>{{ .phone | markdownify }}<br>
+            <a href="mailto:{{ $address.email }}">{{ .email | markdownify       }}</a>
           </p>
 
         </div>
@@ -62,8 +62,10 @@
           </div>
           <h4>Horaires & Honoraires</h4>
           <p>
-            {{ $address.openingHours }}<br/>
-            {{ $address.price }}
+            {{ .openingHours | markdownify }}
+            <br/>
+            <br/>
+            {{ .price | markdownify }}
           </p>
         </div>
       </div>

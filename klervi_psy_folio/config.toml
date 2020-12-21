@@ -48,13 +48,6 @@ formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
-[params.address]
-address = "30 rue de la Blordière Résidence la Clé des Champs – immeuble Les merisiers 44400 REZE"
-email = "psy.klervi@gmail.com"
-openingHours = "De lundi à jeudi de 9h à 17h"
-price = "50€ la séance d'environ 45min"
-phone = "07.83.24.67.92"
-
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
 latitude = "23.7783741"
