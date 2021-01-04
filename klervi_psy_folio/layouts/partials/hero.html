@@ -28,7 +28,8 @@
             </svg>
           </div>
           <div class="mb-5">
-            <span class="top-title pre-line">{{ .topTitle }}</span>
+            {{ .title | markdownify }}
+            <span class="top-title">{{ .topTitle }}</span>
             <p style="font-size: 1.125rem;">
                 {{ .content }}
             </p>
