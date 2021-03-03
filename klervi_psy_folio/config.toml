@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "fr-fr"
 paginate = 6
 theme = "portio"
-title = "Klervi, Psychologue"
+title = "Klervi, Psychologue Reze"
 # Main Menu
 [[menu.main]]
 name = "Accueil"
